@@ -20,7 +20,6 @@ public class MyFirstTest {
 
 
     }
-
     private int sumTwoDigits(int a, int b) {
         int c = a + b;
         return c;
